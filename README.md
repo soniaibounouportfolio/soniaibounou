@@ -1,6 +1,6 @@
 # Hello, I am Sonia IBOUNOU
 
-### Data Analysis and Artificial Intelligence | MSc Data Analytics & Management Student at INSEEC
+### Data Analysis and Artificial Intelligence | MSc Data Analytics & Management Student at INSEEC 
 
 Passionate about data, business intelligence and transforming datasets into actionable insights.
 
